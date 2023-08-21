@@ -1,0 +1,5 @@
+baseURL = 'https://sne4kers.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme ="risotto"

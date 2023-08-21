@@ -1,0 +1,4 @@
+[submodule "blog/public"]
+	path = blog/public
+	url = git@github.com:Sne4kers/sne4kers.github.io.git
+	branch = main
